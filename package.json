@@ -1,0 +1,11 @@
+{
+  "name": "dubank",
+  "version": "0.0.1",
+  "description": "A nubank clone webpage",
+  "main": "src/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
