@@ -2,7 +2,7 @@
   "name": "dubank",
   "version": "0.0.1",
   "description": "A nubank clone webpage",
-  "main": "src/index.html",
+  "source": "src/index.html",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
